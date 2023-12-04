@@ -1,0 +1,15 @@
+C:\Users\sean.edwards\source\repos\ConsoleApps\AdventOfCode2023\Day2_p1\bin\Debug\net7.0\input.txt
+C:\Users\sean.edwards\source\repos\ConsoleApps\AdventOfCode2023\Day2_p1\bin\Debug\net7.0\Day2_p1.exe
+C:\Users\sean.edwards\source\repos\ConsoleApps\AdventOfCode2023\Day2_p1\bin\Debug\net7.0\Day2_p1.deps.json
+C:\Users\sean.edwards\source\repos\ConsoleApps\AdventOfCode2023\Day2_p1\bin\Debug\net7.0\Day2_p1.runtimeconfig.json
+C:\Users\sean.edwards\source\repos\ConsoleApps\AdventOfCode2023\Day2_p1\bin\Debug\net7.0\Day2_p1.dll
+C:\Users\sean.edwards\source\repos\ConsoleApps\AdventOfCode2023\Day2_p1\bin\Debug\net7.0\Day2_p1.pdb
+C:\Users\sean.edwards\source\repos\ConsoleApps\AdventOfCode2023\Day2_p1\obj\Debug\net7.0\Day2_p1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sean.edwards\source\repos\ConsoleApps\AdventOfCode2023\Day2_p1\obj\Debug\net7.0\Day2_p1.AssemblyInfoInputs.cache
+C:\Users\sean.edwards\source\repos\ConsoleApps\AdventOfCode2023\Day2_p1\obj\Debug\net7.0\Day2_p1.AssemblyInfo.cs
+C:\Users\sean.edwards\source\repos\ConsoleApps\AdventOfCode2023\Day2_p1\obj\Debug\net7.0\Day2_p1.csproj.CoreCompileInputs.cache
+C:\Users\sean.edwards\source\repos\ConsoleApps\AdventOfCode2023\Day2_p1\obj\Debug\net7.0\Day2_p1.dll
+C:\Users\sean.edwards\source\repos\ConsoleApps\AdventOfCode2023\Day2_p1\obj\Debug\net7.0\refint\Day2_p1.dll
+C:\Users\sean.edwards\source\repos\ConsoleApps\AdventOfCode2023\Day2_p1\obj\Debug\net7.0\Day2_p1.pdb
+C:\Users\sean.edwards\source\repos\ConsoleApps\AdventOfCode2023\Day2_p1\obj\Debug\net7.0\Day2_p1.genruntimeconfig.cache
+C:\Users\sean.edwards\source\repos\ConsoleApps\AdventOfCode2023\Day2_p1\obj\Debug\net7.0\ref\Day2_p1.dll
