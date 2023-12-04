@@ -13,3 +13,4 @@ C:\Users\sean.edwards\source\repos\ConsoleApps\AdventOfCode2023\Day2_p1\obj\Debu
 C:\Users\sean.edwards\source\repos\ConsoleApps\AdventOfCode2023\Day2_p1\obj\Debug\net7.0\Day2_p1.pdb
 C:\Users\sean.edwards\source\repos\ConsoleApps\AdventOfCode2023\Day2_p1\obj\Debug\net7.0\Day2_p1.genruntimeconfig.cache
 C:\Users\sean.edwards\source\repos\ConsoleApps\AdventOfCode2023\Day2_p1\obj\Debug\net7.0\ref\Day2_p1.dll
+C:\Users\sean.edwards\source\repos\ConsoleApps\AdventOfCode2023\Day2_p1\obj\Debug\net7.0\Day2_p1.sourcelink.json
