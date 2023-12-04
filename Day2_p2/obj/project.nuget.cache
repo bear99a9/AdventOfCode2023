@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ckyxJjeXDZA5UXQxvwp2kibiHiGoJCZNv8U/kYJFQGzPiwemJenHs5XeJF291GT76U4HxLlW60JPb17jU4qywA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sean.edwards\\source\\repos\\ConsoleApps\\AdventOfCode2023\\Day2_p2\\Day2_p2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sean.edwards\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\sean.edwards\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\sean.edwards\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\sean.edwards\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
